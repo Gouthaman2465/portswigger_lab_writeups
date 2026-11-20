@@ -49,7 +49,7 @@ My step-by-step notes and write-ups for the [PortSwigger Web Security Academy](h
 | API Testing | 5 / 5 | ██████████ 100% | [api-testing.md](./api-testing.md) |
 | Business Logic Vulnerabilities | 10 / 12 | ████████░░ 83% | [business-logic.md](./business-logic.md) |
 | GraphQL API Vulnerabilities | 5 / 5 | ██████████ 100% | [graphql.md](./graphql.md) |
-| Information Disclosure | 5 / 5 | ██████████ 100% | coming soon |
+| Information Disclosure | 5 / 5 | ██████████ 100% | [information-disclosure.md](./information-disclosure.md) |
 | Insecure Deserialization | 7 / 10 | ███████░░░ 70% | [insecure-deserialization.md](./insecure-deserialization.md) |
 
 ## What is in each write-up
