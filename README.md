@@ -4,7 +4,7 @@ My step-by-step notes and write-ups for the [PortSwigger Web Security Academy](h
 
 ## Progress
 
-**132 / 191 labs completed** across 21 topics (69%).
+**132 completed** across 21 topics.
 
 ### Injection
 
